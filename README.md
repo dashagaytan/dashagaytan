@@ -1,5 +1,5 @@
 - 👋🏼 Hi I'm @dashagaytan
 - 👩🏼‍💻 Code below is powered by a lot of black coffee
 - 🌱 I’m currently learning Web Development @Vschool
-- 📫 How to reach me: check my bio for all social links
+- 📫 How to reach me: (https://linktr.ee/dasha_gaytan)
 - 💜 I enjoy outdoors, art, working out, and quality family time
