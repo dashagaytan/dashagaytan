@@ -1,4 +1,4 @@
-- 👋🏼 Hi I'm @dashagaytan
+- 👋🏼 Hi I'm Dasha Gaytan
 - 👩🏼‍💻 Code below is powered by a lot of black coffee
 - 🌱 I’m currently learning Web Development @Vschool
 - 📫 How to reach me: (https://linktr.ee/dasha_gaytan)
