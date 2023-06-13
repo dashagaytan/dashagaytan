@@ -54,9 +54,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/dashagaytan/dashagaytan/output/snake.svg" alt="Snake animation" />
-
-###
