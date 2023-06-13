@@ -1,5 +1,5 @@
 <h3 align="left">Hi 👋! I'm Dasha Gaytan. <br><br>Full Stack Web Developer based in Chicago area.</h3>
-<p>I'm on a quest to build meaningful connections and take on exciting new opportunities. Feel free to reach out:</p>
+<p>I'm on a quest to build meaningful connections and take on exciting new opportunities. Feel free to reach out!</p>
 
 ###
 
